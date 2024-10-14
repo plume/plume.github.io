@@ -1,0 +1,5 @@
+baseURL = 'https://plume.github.io/'
+languageCode = 'en-us'
+title = 'Plume blog'
+subtitle = 'Focusing on the research of computer science and technology.'
+theme = 'smigle' 
