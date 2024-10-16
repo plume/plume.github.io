@@ -2,7 +2,7 @@ html {
   overflow-y: scroll
 }
 :root {
-  --bgcolor: #f8f9fa;
+  --bgcolor: #f8f9ff;
   --dimcolor: #eee;
   --fontcolor: #000;
   --linkcolor: #00e;
@@ -52,11 +52,11 @@ p > code {
 pre {
   color: var(--precolor);
   background: var(--prebgcolor);
-  padding: 24px;
+  padding: 8px;
   overflow-x: auto;
 }
 article {
-  padding: 5px 0;
+  padding: 1px 0;
 }
 .center  {
   display: block;

@@ -1,0 +1,6 @@
+<article class="summary">
+  {{ partial "postMeta.html" .}}
+<a href="{{ .Permalink }}">
+    <h2>{{ .Title }}</h2>
+</a>
+</article>

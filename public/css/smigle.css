@@ -2,7 +2,7 @@
   font-family: Iosevka, monospace;
   max-width: 750px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 6px;
 }
 #brand {
   display: flex;
@@ -28,26 +28,26 @@
   width: 75px;
 }
 footer {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 header nav {
   margin: 15px 0;
 }
 h1.title {
-  margin: 1.3rem 0 0 0;
+  margin: 1.1rem 0 0 0;
 }
 h3.subtitle {
   font-weight: normal;
   margin: 0;
 }
 div.post-meta {
-  margin-top: 1.3rem;
+  margin-top: 0.5rem;
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   #root {
-    margin-top: 25px;
+    margin-top: 20px;
   }
   #brand {
     flex-direction: row;

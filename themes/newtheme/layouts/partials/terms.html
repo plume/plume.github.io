@@ -1,4 +1,5 @@
 {{ $title := .Title | lower }}
+what is terms
 {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
 <ul id="terms">
   {{ range $key, $value := .Data.Terms.ByCount }}

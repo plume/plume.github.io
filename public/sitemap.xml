@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56621/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-14T22:26:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-14T22:26:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/666/</loc>
+    <loc>http://localhost:1313/posts/666/</loc>
     <lastmod>2024-10-14T22:26:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/555/</loc>
+    <loc>http://localhost:1313/posts/555/</loc>
     <lastmod>2024-10-14T22:26:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/ten/</loc>
+    <loc>http://localhost:1313/posts/ten/</loc>
     <lastmod>2024-10-14T22:25:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/nine/</loc>
+    <loc>http://localhost:1313/posts/nine/</loc>
     <lastmod>2024-10-14T22:25:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/eight/</loc>
+    <loc>http://localhost:1313/posts/eight/</loc>
     <lastmod>2024-10-14T22:25:45+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/seven/</loc>
+    <loc>http://localhost:1313/posts/seven/</loc>
     <lastmod>2024-10-14T22:25:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/six/</loc>
+    <loc>http://localhost:1313/posts/six/</loc>
     <lastmod>2024-10-14T22:25:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/five/</loc>
+    <loc>http://localhost:1313/posts/five/</loc>
     <lastmod>2024-10-14T22:25:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/444/</loc>
+    <loc>http://localhost:1313/posts/444/</loc>
     <lastmod>2024-10-14T22:24:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/three/</loc>
+    <loc>http://localhost:1313/posts/three/</loc>
     <lastmod>2024-10-12T19:43:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/second/</loc>
+    <loc>http://localhost:1313/posts/second/</loc>
     <lastmod>2024-10-12T17:46:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/posts/myfirst/</loc>
+    <loc>http://localhost:1313/posts/myfirst/</loc>
     <lastmod>2024-10-12T17:44:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:56621/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:56621/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
