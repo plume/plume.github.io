@@ -6,8 +6,3 @@ theme = 'newtheme'
 [params]
 Author = "Gao Wei"
 Email = "gggaaaooo@gmail.com" 
-utteranc:
-    enable: true
-    repo: "plume/plume.github.io" 
-    issueTerm: "title"
-    theme: "github-light"  
